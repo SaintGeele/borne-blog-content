@@ -97,3 +97,15 @@ Most owners can pull a list and send a first message within a week. Automation c
 
 **Which service businesses benefit most from reactivation?**
 Any business where customers need the same work on a cycle. HVAC, plumbing, dental, automotive, pest control, property maintenance, and lawn care are strong fits. One-time project businesses benefit too, just with a different cadence and a different offer.
+
+---
+
+## Publication record
+
+- **Published:** 2026-07-14
+- **URL:** https://bornesystems.com/blog/repeat-customer-math-reactivation-vs-new-leads
+- **GitHub (bs-website):** commits 678f2dd + 6bf4e5a
+- **GitHub (borne-blog-content):** commit 06a1fd1
+- **Notion entry:** page 39d26a63-e141-816f-bf4b-ccb39b665d8f
+- **Content pillar:** Operational Efficiency
+- **Status note:** Same prerender-routing caveat as the July 7 post. Static HTML deploys to dist/blog/<slug>/index.html, but Cloudflare serves the SPA fallback on clean URLs. React routing delivers the content on the client. Tracked by seo-postdeploy-check.
