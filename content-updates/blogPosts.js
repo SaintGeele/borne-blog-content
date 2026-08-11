@@ -4,6 +4,15 @@
 
 export const blogPosts = [
   {
+    slug: 'vendor-changes-quarterly-audit',
+    route: '/blog/vendor-changes-quarterly-audit',
+    title: 'What Your Vendor Changed Without Telling You: A Quarterly Audit Checklist for Service Business Automation — Borne Systems Blog',
+    excerpt: 'Most automation breakdowns in service businesses are not caused by anything you did wrong. They are caused by something your vendor changed. Here is the 30-minute quarterly audit that catches silent failures before your customers do.',
+    tag: 'Maintenance',
+    date: '2026-08-11',
+    kind: 'post',
+  },
+  {
     slug: 'voice-system-downtime-playbook',
     route: '/blog/voice-system-downtime-playbook',
     title: 'When Your Voice System Goes Silent: A Downtime Playbook for Service Businesses — Borne Systems Blog',
